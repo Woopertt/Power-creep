@@ -1,7 +1,7 @@
 [
 	{
 		"name": "서원",
-		"replaces": "Campus",
+		"replaces": "Library",
 		"uniqueTo": "Great Hwan Empire",
 		"cost": 48,
 		"happiness": 26,

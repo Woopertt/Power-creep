@@ -5,8 +5,8 @@
 		"uniqueTo": "Great Hwan Empire",
 		"cost": 48,
 		"happiness": 72,
-		"uniques": ["[+3 Science] per [1] population [in this city]","[+3 Culture] per [1] population [in this city]"],
-		"maintenance": 6,
+		"uniques": ["[+5 Science] per [1] population [in this city]","[+3 Culture] per [1] population [in this city]"],
+		"maintenance": -100,
 		"requiredTech": "Writing"
 	},
 	{
@@ -16,7 +16,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["200% of food is carried over after a new citizen is born"],
+		"uniques": ["1500% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 		"uniqueTo": "Great Hwan Empire",
 	}
@@ -24,9 +24,9 @@
 		"name": "삼성",
 		"replaces": "Stock Exchange",
 		"uniqueTo": "Great Hwan Empire",
-                "culture": 10,
+                "culture": 8,
 		"gold": 9,
-		"percentStatBonus": {"gold": 66},
+		"percentStatBonus": {"gold": 200},
 		"specialistSlots": {"Merchant": 5},
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Bank",
@@ -36,13 +36,13 @@
 		"name": "현대",
 		"replaces": "Workshop",
 		"maintenance": 2,
-		"production": 1,
+		"production": 4,
 		"specialistSlots": {"Engineer": 5},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"production": 40},
+		"percentStatBonus": {"production": 90},
 	        "uniques": ["[+10 Production] from [Farm] tiles [in this city]"],
 
-		"requiredTech": "Metal Casting"
+		"requiredTech": "Pottery"
 }
 
 ]

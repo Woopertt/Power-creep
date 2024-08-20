@@ -27,10 +27,10 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [168,16,220],
+		"outerColor": [158,16,220],
 		"innerColor": [255,255,220],
-		"unique": "free [builder] appears",
-		"cities": ["서울","대전","대구","부산","울상","포항","제주","경주","상주",
+		"unique": "free [worker] appears",
+		"cities": ["서울","대전","대구","부산","울산","포항","제주","경주","상주",
 			"진주","전주","나주","광주","세종","충주","청주","충천","서귀포","수원",
 			"개성","강릉","원주","목포","해주","황주","평양","전제","안주","함흥",
 			"경성","의주","원산","과일","인천","금강"]

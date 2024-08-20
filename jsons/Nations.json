@@ -1,22 +1,22 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Great Hwan Empire",
+		"leaderName": "Super Sejong",
+		"adjective": ["hwan"],
+		"startBias": ["river"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Hello Fucks",
+		"startIntroPart2": "sex",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "How is it possible that those Apes hurt us? Great Dangun will take care of them.",
+		"introduction": "As the superior race, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": ["Fuck yourself.","Are you retard?","Fuck off."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
@@ -27,12 +27,12 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [168,16,220],
+		"innerColor": [255,255,220],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["서울","대전","대구","부산","울상","포항","제주","경주","상주",
+			"진주","전주","나주","광주","세종","충주","청주","충천","서귀포","수원",
+			"개성","강릉","원주","목포","해주","황주","평양","전제","안주","함흥",
+			"경성","의주","원산","과일","인천","금강"]
 	}
 ]

@@ -1,21 +1,19 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
+		"name": "서원",
+		"replaces": "Campus",
+		"uniqueTo": "Great Hwan Empire",
+		"cost": 48,
+		"happiness": 26,
+		"culture": 120,
 		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"maintenance": 12,
+		"requiredTech": "Writing"
 	},
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Great Hwan Empire",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,

@@ -35,6 +35,7 @@
 {
 		"name": "현대",
 		"replaces": "Workshop",
+		"uniqueTo": "Great Hwan Empire",
 		"maintenance": 2,
 		"production": 4,
 		"specialistSlots": {"Engineer": 5},

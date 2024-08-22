@@ -6,7 +6,7 @@
 		"cost": 48,
 		"happiness": 72,
 		"uniques": ["[+5 Science] per [1] population [in this city]","[+2 Culture] per [1] population [in this city]"],
-		"maintenance": -10,
+		"maintenance": 1,
 		"requiredTech": "Writing"
 	},
 	{

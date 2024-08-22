@@ -10,7 +10,7 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "순경",
+		"name": "선경",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Great Hwan Empire",
 		"cost": 80,

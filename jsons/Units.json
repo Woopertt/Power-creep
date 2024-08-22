@@ -10,7 +10,6 @@
 		"range": 5,
 		"cost": 300,
 		"requiredTech": "Physics",
-		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"attackSound": "phasers"

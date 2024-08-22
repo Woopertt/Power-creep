@@ -5,8 +5,8 @@
 		"uniqueTo": "Great Hwan Empire",
 		"cost": 48,
 		"happiness": 72,
-		"uniques": ["[+5 Science] per [1] population [in this city]","[+3 Culture] per [1] population [in this city]"],
-		"maintenance": -100,
+		"uniques": ["[+5 Science] per [1] population [in this city]","[+2 Culture] per [1] population [in this city]"],
+		"maintenance": -10,
 		"requiredTech": "Writing"
 	},
 	{

@@ -10,7 +10,7 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "Breeders",
+		"name": "순경",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Great Hwan Empire",
 		"cost": 80,

@@ -5,13 +5,28 @@
 		"uniqueTo": "Great Hwan Empire",
 		"replaces": "Cannon",
 		"movement": 9,
-		"strength": 900,
+		"strength": 1400,
 		"rangedStrength": 36,
 		"range": 5,
 		"cost": 300,
 		"requiredTech": "Physics",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}
+		{
+		"name": "거북선",
+		"unitType": "Melee Water",
+		"replaces": "Caravel",
+		"uniqueTo": "Great Hwan Empire",
+		"movement": 6,
+		"strength": 2000,
+		"cost": 100,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["Cannot enter ocean tiles"],
+		"hurryCostModifier": 30,
 		"attackSound": "phasers"
 	}
 ]

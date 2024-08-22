@@ -5,13 +5,14 @@
 		"uniqueTo": "Great Hwan Empire",
 		"replaces": "Cannon",
 		"movement": 9,
-		"strength": 1400,
+		"strength": 800,
 		"rangedStrength": 36,
 		"range": 5,
 		"cost": 300,
 		"requiredTech": "Physics",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"attackSound": "phasers"
 	}
 		{
@@ -25,7 +26,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
-		"uniques": ["Cannot enter ocean tiles"],
+		"uniques": ["Never appears as a Barbarian unit"],
 		"hurryCostModifier": 30,
 		"attackSound": "phasers"
 	}

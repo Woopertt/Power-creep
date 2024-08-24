@@ -16,7 +16,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["1500% of food is carried over after a new citizen is born"],
+		"uniques": ["1500% of food is carried over after a new citizen is born","[+10 Food] from [Farm] tiles [in this city]"],
 		"requiredTech": "Engineering"
 		"uniqueTo": "Great Hwan Empire",
 	}
@@ -40,6 +40,7 @@
 		"production": 4,
 		"specialistSlots": {"Engineer": 5},
 		"hurryCostModifier": 25,
+	        "unique": ["free [worker] appears"],
 		"percentStatBonus": {"production": 90},
 	        "uniques": ["[+10 Production] from [Farm] tiles [in this city]"],
 

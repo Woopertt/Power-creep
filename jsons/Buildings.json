@@ -5,7 +5,7 @@
 		"uniqueTo": "Great Hwan Empire",
 		"cost": 48,
 		"happiness": 72,
-		"uniques": ["[+5 Science] per [1] population [in this city]","[+2 Culture] per [1] population [in this city]","[6] Free Technologies"],
+		"uniques": ["[+5 Science] per [1] population [in this city]","[+2 Culture] per [1] population [in this city]","[3] Free Technologies"],
 		"maintenance": 1,
 		"requiredTech": "Writing"
 	},
@@ -40,7 +40,7 @@
 		"production": 4,
 		"specialistSlots": {"Engineer": 5},
 		"hurryCostModifier": 25,
-	        "uniques": ["Free [worker] appears"],
+	        "uniques": ["Free [Worker] appears"],
 		"percentStatBonus": {"production": 90},
 	        "uniques": ["[+10 Production] from [Farm] tiles [in this city]"],
 

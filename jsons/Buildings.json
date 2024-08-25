@@ -16,7 +16,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["1500% of food is carried over after a new citizen is born","[+10 Food] from [Farm] tiles [in this city]","[+5 Food] per [1] population [in this city]","[+2 Culture] per [1] population [in this city]"],
+		"uniques": ["100% of food is carried over after a new citizen is born","[+10 Food] from [Farm] tiles [in this city]","[+5 Food] per [1] population [in this city]","[+2 Culture] per [1] population [in this city]"],
 		"requiredTech": "Engineering"
 		"uniqueTo": "Great Hwan Empire",
 	}

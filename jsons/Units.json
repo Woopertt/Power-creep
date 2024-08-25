@@ -23,7 +23,7 @@
 		"strength": 2000,
 		"cost": 100,
 		"requiredTech": "Astronomy",
-		"obsoleteTech": "Combustion",
+		"promotions": ["Logistics"],
 		"uniques": ["Never appears as a Barbarian unit"],
 		"hurryCostModifier": 30,
 		"attackSound": "phasers"

@@ -2,21 +2,21 @@
 	{
 		"name": "대환제국",
 		"leaderName": "Super Sejong",
-		"adjective": ["hwan"],
+		"adjective": ["Hwan"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Hello Fucks",
-		"startIntroPart2": "sex",
+		"startIntroPart1": "The ultimate nation that thrived in prehistoric times.",
+		"startIntroPart2": "Guide your nation to a fruitful future",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
+		"attacked": "Are you stupid or something?",
 		"defeated": "How is it possible that those Apes hurt us? Great Dangun will take care of them.",
 		"introduction": "As the superior race, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["Fuck yourself.","Are you retard?","Fuck off."],
+		"neutralNo": ["I just got a call from Mr sky, he said that you are stupid.","You are silly?","No way bro."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
@@ -26,15 +26,14 @@
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
-
+		"favoredReligion": "Confucianism",
 		"outerColor": [158,16,220],
 		"innerColor": [255,255,220],
 		"uniqueName": "Union of Paektu and Halla",
-		"uniques": ["[+50]% Production when constructing [Nuclear Missile] units [in all cities]","Double quantity of [Uranium] produced","[+50]% Yield from every [Great Improvement]","[+2 Science] from every specialist [in all cities]","[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital","[+25]% Golden Age length", "[+25]% [Culture] <during a Golden Age>"],
-		"cities": ["서울","대전","대구","부산","울산","포항","제주","경주","상주",
-			"진주","전주","나주","광주","세종","충주","청주","충천","서귀포","수원",
-			"개성","강릉","원주","목포","해주","황주","평양","전제","안주","함흥",
-			"경성","의주","원산","과일","인천","금강"]
+		"uniques": ["[+20 Culture] [in all cities] <after discovering [Telecommunications]>","[+50]% Production when constructing [Nuclear Missile] units [in all cities]","Double quantity of [Uranium] produced","[+50]% Yield from every [Great Improvement]","[+2 Science] from every specialist [in all cities]","[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital","[+25]% Golden Age length", "[+25]% [Culture] <during a Golden Age>"],
+		"cities": ["서울","부산","인천","전주","대구","대전","평양","개성","수원","광주","강릉","함흥","원주","울산",
+			"창원","청진","고양","용인","성남","부천","안동","공주","해주","청주","안산","화","천안","안양","김해","포양","양주","목포","거제","원산","의주","단천","개천","순천","진주","상주",
+			"제주","라선","경주","충주","사천","김제","안주"],
 	        "spyNames": ["김", "박", "이", "나", "한", "윤", "안", "최", "은"]
 	}
 ]

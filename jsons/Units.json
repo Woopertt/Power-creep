@@ -2,31 +2,32 @@
 	{
 		"name": "화차",
 		"unitType": "Siege",
-		"uniqueTo": "Great Hwan Empire",
-		"replaces": "Cannon",
-		"movement": 9,
-		"strength": 850,
-		"rangedStrength": 50,
-		"range": 5,
-		"cost": 300,
+		"replaces": "Trebuchet",
+		"uniqueTo": "대환제국",
+		"movement": 2,
+		"strength": 11,
+		"rangedStrength": 26,
+		"cost": 120,
 		"requiredTech": "Physics",
-		"promotions": ["Logistics","Accuracy I"],
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Never appears as a Barbarian unit"],
-		"attackSound": "phasers"
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": ["No defensive terrain bonus","Must set up to ranged attack"],
+		"attackSound": "throw"
 	}
-		{
+	{
 		"name": "거북선",
 		"unitType": "Melee Water",
 		"replaces": "Caravel",
-		"uniqueTo": "Great Hwan Empire",
-		"movement": 16,
-		"strength": 2000,
-		"cost": 100,
+		"uniqueTo": "대환제국",
+		"movement": 4,
+		"strength": 36,
+		"cost": 120,
 		"requiredTech": "Astronomy",
-		"promotions": ["Logistics"],
-		"uniques": ["Never appears as a Barbarian unit"],
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["Cannot enter ocean tiles"],
 		"hurryCostModifier": 30,
-		"attackSound": "phasers"
+		"attackSound": "cannon"
 	}
 	{
 		"name": "곡산",

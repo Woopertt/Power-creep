@@ -32,7 +32,7 @@
 	{
 		"name": "곡산",
 		"unitType": "Siege",
-                "uniqueTo": "대환제",
+                "uniqueTo": "대환제국",
                 "replaces": "Artillery",
 		"movement": 2,
 		"strength": 21,

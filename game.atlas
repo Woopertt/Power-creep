@@ -32,6 +32,11 @@ UnitIcons/Phasers
   orig: 100, 100
   offset: 0, 0
   index: -1
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 UnitIcons/곡산
   rotate: false
   xy: 620, 544

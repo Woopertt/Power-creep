@@ -3,10 +3,9 @@
 		"name": "서원",
 		"replaces": "Library",
 		"uniqueTo": "대환제국",
-		"cost": 48,
-		"greatPersonPoints": {"Great Scientist": 1}
+		"greatPersonPoints": {"Great Scientist": 1},
 		"happiness": 2,
-		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [2] population [in this city]"],
+		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [1] population [in this city]"],
 		"maintenance": 1,
 		"requiredTech": "Writing"
 	},
@@ -51,6 +50,7 @@
 		"name": "상",
 		"replaces": "Colosseum",
 		"uniqueTo": "대환제국",
+		"greatPersonPoints": {"Great Engineer": 1},
 		"maintenance": 1,
 		"happiness": 2,
 		"hurryCostModifier": 25,
@@ -58,9 +58,10 @@
 		"requiredTech": "Construction"
 }
 {
-		"name": "제벌",
+		"name": "재벌",
                 "replaces": "Seaport",
                 "uniqueTo": "대환제국",
+		"greatPersonPoints": {"Great Merchant": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 3,
 		"requiredBuilding": "Harbor",

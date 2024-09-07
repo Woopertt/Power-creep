@@ -2,10 +2,11 @@
 	{
 		"name": "서원",
 		"replaces": "Library",
-		"uniqueTo": "Great Hwan Empire",
+		"uniqueTo": "대환제국",
 		"cost": 48,
-		"happiness": 72,
-		"uniques": ["[+5 Science] per [1] population [in this city]","[+2 Culture] per [1] population [in this city]","[1] Free Technologies"],
+		"greatPersonPoints": {"Great Scientist": 1}
+		"happiness": 2,
+		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [2] population [in this city]"],
 		"maintenance": 1,
 		"requiredTech": "Writing"
 	},

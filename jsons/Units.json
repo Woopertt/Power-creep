@@ -5,11 +5,12 @@
 		"replaces": "Longswordsman",
 		"uniqueTo": "대환제국",
 		"movement": 2,
+		"rangedStrength": 11,
 		"strength": 14,
 		"cost": 55,
 		"cost": 120,
 		"requiredTech": "Guilds",
-		"uniques": ["No defensive terrain penalty","Blast radius [40]","[30] additional attacks per turn"],
+		"uniques": ["No defensive terrain penalty","Blast radius [40]","[30] additional attacks per turn","[3] Range"],
 		"attackSound": "Metalhit"
 	}
 	{

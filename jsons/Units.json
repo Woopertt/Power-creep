@@ -2,14 +2,14 @@
 	{
 		"name": "화랑",
 		"unitType": "Melee",
-		"replaces": "Swordsman",
+		"replaces": "Longswordsman",
 		"uniqueTo": "대환제국",
 		"movement": 2,
 		"strength": 14,
 		"cost": 55,
 		"cost": 120,
-		"requiredTech": "Philosophy",
-		"uniques": ["No defensive terrain penalty","Blast radius [40]"],
+		"requiredTech": "Guilds",
+		"uniques": ["No defensive terrain penalty","Blast radius [40]","[30] additional attacks per turn"],
 		"attackSound": "Metalhit"
 	}
 	{

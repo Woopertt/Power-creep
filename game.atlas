@@ -1,6 +1,6 @@
 
 game.png
-size: 700, 200
+size: 1100, 200
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -42,6 +42,13 @@ UnitIcons/청룡
 NationIcons/대환제국
   rotate: false
   xy: 500, 0
+  size: 200, 200
+  orig: 474, 474
+  offset: 0, 0
+  index: -1
+ReligionIcons/무교
+  rotate: false
+  xy: 900, 0
   size: 200, 200
   orig: 474, 474
   offset: 0, 0

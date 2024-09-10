@@ -5,11 +5,13 @@
 		"replaces": "Longswordsman",
 		"uniqueTo": "대환제국",
 		"movement": 2,
-		"strength": 22,
+		"strength": 19,
 		"cost": 55,
 		"cost": 120,
 		"requiredTech": "Guilds",
-		"uniques": ["No defensive terrain penalty","Blast radius [40]","[20] additional attacks per turn"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["No defensive terrain penalty","Blast radius [40]","[19] additional attacks per turn"],
 		"attackSound": "Metalhit"
 	}
 	{

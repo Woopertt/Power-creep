@@ -1,7 +1,7 @@
 [
 	{
 		"name": "화랑",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "대환제국",
 		"movement": 2,

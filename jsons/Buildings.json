@@ -3,9 +3,9 @@
 		"name": "서원",
 		"replaces": "Library",
 		"uniqueTo": "대환제국",
-		"greatPersonPoints": {"Great Engineer": 1},
+		"greatPersonPoints": {"Great Scientist": 1},
 		"happiness": 2,
-		"uniques": [ "[80] Free Technologies","[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [1] population [in this city]"],
+		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [1] population [in this city]"],
 		"maintenance": 1,
 		"requiredTech": "Writing"
 	},

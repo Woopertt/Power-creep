@@ -6,12 +6,12 @@
 		"uniqueTo": "대환제국",
 		"movement": 2,
 		"strength": 19,
-		"cost": 55,
+		"cost": 35,
 		"cost": 120,
 		"requiredTech": "Guilds",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["No defensive terrain penalty","Blast radius [40]","[19] additional attacks per turn"],
+		"uniques": [ "Earn [50]% of the damage done to [City] units as [Culture]","Upon capturing a city, receive [3] times its [Science] production as [Culture] immediately","[19] additional attacks per turn"],
 		"attackSound": "Metalhit"
 	}
 	{

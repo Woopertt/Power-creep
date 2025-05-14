@@ -66,11 +66,11 @@
 		"replaces": "Marine",
 		"uniqueTo": "대환제국",
 		"movement": 2,
-		"strength": 71,
-		"cost": 400,
+		"strength": 75,
+		"cost": 350,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious","Great Generals II"],
-		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked","[1] Movement point cost to embark","[1] Movement point cost to disembark"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked","[1] Movement point cost to embark","[1] Movement point cost to disembark","[+50]% to Flank Attack bonuses"],
 		"attackSound": "shot"
 	}
 ]

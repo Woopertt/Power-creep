@@ -10,7 +10,7 @@
 		"requiredTech": "Guilds",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": [ "Earn [50]% of the damage done to [City] units as [Culture]","Upon capturing a city, receive [3] times its [Science] production as [Culture] immediately","[19] additional attacks per turn"],
+		"uniques": [ "Earn [50]% of the damage done to [City] units as [Culture]","Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately","[19] additional attacks per turn"],
 		"attackSound": "Metalhit"
 	}
 	{
@@ -20,7 +20,7 @@
 		"uniqueTo": "대환제국",
 		"movement": 3,
 		"strength": 11,
-		"rangedStrength": 29,
+		"rangedStrength": 34,
 		"cost": 120,
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
@@ -50,7 +50,7 @@
                 "replaces": "Artillery",
 		"movement": 3,
 		"strength": 21,
-		"rangedStrength": 38
+		"rangedStrength": 40
 		"range": 3,
 		"cost": 240,
 		"requiredTech": "Dynamite",
@@ -67,10 +67,10 @@
 		"uniqueTo": "대환제국",
 		"movement": 3,
 		"strength": 75,
-		"cost": 350,
+		"cost": 320,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious","Great Generals II"],
-		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked","[1] Movement point cost to embark","[1] Movement point cost to disembark","[+50]% to Flank Attack bonuses"],
+		"uniques": ["[+5] Sight <when [Embarked]>", "Defense bonus when embarked","[1] Movement point cost to embark","[1] Movement point cost to disembark","[+50]% to Flank Attack bonuses"],
 		"attackSound": "shot"
 	}
 ]

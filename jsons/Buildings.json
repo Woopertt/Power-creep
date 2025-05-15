@@ -8,7 +8,19 @@
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [1] population [in this city]"],
 		"maintenance": 1,
 		"requiredTech": "Writing"
-	},
+	}
+	{
+		"name": "교방",
+		"replaces": "Amphitheater",
+		"uniqueTo": "대환제국",
+		"greatPersonPoints": {"Great Artist": 1},
+		"happiness": 1,
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Culture] from [Mine] tiles [in this city]","[+1 Culture] per [1] population [in this city]"],
+		"maintenance": 2,
+		"requiredTech": "Drama and Poetry"
+	}
 	{
 		"name": "선경",
 		"replaces": "Aqueduct",
@@ -66,7 +78,7 @@
 		"requiredBuilding": "Harbor",
 		"uniques": [
 "[+1 Production, +1 Gold] from [Water resource] tiles [in this city]","[+1 Production] from every specialist [in this city]",
-"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]"],
+"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]","[+5 Gold, +5 Production] from each Trade Route"],
 		"requiredTech": "Navigation"	
 }
 ]

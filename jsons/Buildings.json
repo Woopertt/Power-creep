@@ -65,7 +65,7 @@
 		"maintenance": 1,
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+50]% Production when constructing [Worker] units [in this city]"],
+		"uniques": ["[+50]% Production when constructing [Worker] units [in this city]","[+10]% Production when constructing [All] wonders [in this cities]"],
 		"requiredTech": "Construction"
 }
 {

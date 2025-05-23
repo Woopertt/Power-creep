@@ -4,12 +4,12 @@
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "대환제국",
-		"movement": 3,
-		"strength": 24,
+		"movement": 2333,
+		"strength": 2333,
 		"cost": 35,
 		"requiredTech": "Guilds",
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
+		// "upgradesTo": "Musketman",
+		// "obsoleteTech": "Gunpowder",
 		"uniques": [ "Earn [50]% of the damage done to [City] units as [Culture]","Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately","[19] additional attacks per turn"],
 		"attackSound": "Metalhit"
 	}

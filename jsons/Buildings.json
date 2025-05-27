@@ -2,7 +2,7 @@
 	{
 		"name": "서원",
 		"replaces": "Library",
-		"uniqueTo": "대환제국",
+		"uniqueTo": "Korea",
 		"greatPersonPoints": {"Great Scientist": 1},
 		"happiness": 2,
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [1] population [in this city]"],
@@ -12,7 +12,7 @@
 	{
 		"name": "교방",
 		"replaces": "Amphitheater",
-		"uniqueTo": "대환제국",
+		"uniqueTo": "Korea",
 		"greatPersonPoints": {"Great Artist": 1},
 		"happiness": 1,
 		"culture": 3,
@@ -60,7 +60,7 @@
 {
 		"name": "상",
 		"replaces": "Colosseum",
-		"uniqueTo": "대환제국",
+		"uniqueTo": "Korea",
 		"greatPersonPoints": {"Great Engineer": 1},
 		"maintenance": 1,
 		"happiness": 2,
@@ -71,7 +71,7 @@
 {
 		"name": "재벌",
                 "replaces": "Seaport",
-                "uniqueTo": "대환제국",
+                "uniqueTo": "Korea",
 		"greatPersonPoints": {"Great Merchant": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 3,

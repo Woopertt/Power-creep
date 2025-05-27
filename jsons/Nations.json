@@ -1,8 +1,8 @@
 [
 	{
-		"name": "대환제국",
+		"name": "Korea",
 		"leaderName": "Super Sejong",
-		"adjective": ["Hwan"],
+		"adjective": ["Korean"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Sejong",

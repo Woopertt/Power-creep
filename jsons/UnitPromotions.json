@@ -20,17 +20,9 @@
     {
         "name": "Favorable Winds",
         "uniques": ["Can move after attacking"]
-    	},
-{
-		"name": "Kavkhan",
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles"]
-	},  
-		{
+    	},  
+	{
 		"name": "Crusader",
 		"uniques": ["Can move immediately once bought"]
-	}, 
-	{
-		"name": "[Housecarl] ability",
-		"uniques": ["Double movement in [Snow]","Double movement in [Tundra]","Double movement in [Hill]","Double movement in [Coast]","Normal vision when embarked"]
 	}, 
 ]

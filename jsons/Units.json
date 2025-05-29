@@ -9,7 +9,7 @@
 		"cost": 35,
 		"requiredTech": "Guilds",
 		// "upgradesTo": "Musketman",
-		// "obsoleteTech": "Gunpowder",
+		"obsoleteTech": "Gunpowder",
 		"uniques": [ "Earn [50]% of the damage done to [City] units as [Culture]","Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately","[19] additional attacks per turn"],
 		"attackSound": "Metalhit"
 	}
@@ -73,4 +73,13 @@
 		"uniques": ["Earn [50]% of the damage done to [City] units as [Culture]","[+5] Sight <when [Embarked]>", "Defense bonus when embarked","[1] Movement point cost to embark","[1] Movement point cost to disembark","[+50]% to Flank Attack bonuses"],
 		"attackSound": "shot"
 	}
+	{
+		"name": "Merchant of Venice",
+		"uniqueTo": "Gailand",
+		"replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Great Person - [Gold]","Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>","Double movement in [Coast]","Unbuildable","Uncapturable"]
+	},
 ]

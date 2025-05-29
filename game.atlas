@@ -1,6 +1,6 @@
 
 game.png
-size: 1100, 200
+size: 1500, 200
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -51,5 +51,33 @@ ReligionIcons/무교
   xy: 900, 0
   size: 200, 200
   orig: 474, 474
+  offset: 0, 0
+  index: -1
+NationIcons/대환제국
+  rotate: false
+  xy: 1100, 0
+  size: 200, 200
+  orig: 474, 474
+  offset: 0, 0
+  index: -1
+ResourceIcons/Cocoa
+  rotate: false
+  xy: 1300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Cloves
+  rotate: false
+  xy: 1300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Nutmeg
+  rotate: false
+  xy: 1400, 0
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1

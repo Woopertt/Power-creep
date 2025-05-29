@@ -390,6 +390,17 @@
 			"Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","[+15]% Strength <within [1] tiles of a [Desert]>",
 			"Cannot build [Settler] units", "[Military] units gain the [Pyrrhic Victory] promotion","[+25]% Production when constructing [Military] units [in capital]","Free [Great General] appears <upon discovering [Bronze Working] technology>","Free [Great General] appears <upon discovering [Steel] technology>",
 			"[+1 Food] from every [Horses]","Starts with [Archery]",
+			"[+15]% [Science] [in all cities] <during a Golden Age>","[+20]% Production when constructing [Culture] buildings [in all cities]","[+50]% Production when constructing [Walls] buildings [in all cities]","[+50]% Production when constructing [Var] buildings [in all cities]",
+			"[+1 Gold] from every [Luxury resource]","[1] Movement point cost to disembark <for [All] units>","[1] Movement point cost to embark <for [All] units>","[+1 Culture] from every [Trading post]",
+			"[+25]% Strength <for [Wounded] units>","[+1 Happiness] from every [Barracks]","[+1 Food] from every [Plantation]",
+			"[10]% Food is carried over after population increases [in all cities]",
+			"[+1 Faith] [in all cities] <before the [Medieval era]>",
+			"Each city founded increases culture cost of policies [17]% less than normal","[-1 Happiness] [in all cities]",
+			"[+3 Faith] from every [Great Improvement]","[+2 Faith] from every specialist [in all cities]",
+			"[+3 Science, +3 Culture] [in capital] <after discovering [Writing]>",
+			"Enables embarkation for land units <starting from the [Ancient era]>","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Food] from every [Tundra]",
+			"[+15]% [Gold] [in all cities connected to capital]","[+15]% [Science] <during the [Medieval era]>",
+			"[Land] units gain the [Crusader] promotion","Gain a free [Shrine] [in capital]","Gain a free [Shrine] [in all cities] <after discovering [Philosophy]>","Gain a free [Temple] [in all cities] <after discovering [Education]>"
 		],
 		"cities": ["Joe's abode"],
 		"spyNames": ["Joe Gai",]	

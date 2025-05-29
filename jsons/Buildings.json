@@ -81,4 +81,25 @@
 "Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]","[+5 Gold, +5 Production] from each Trade Route"],
 		"requiredTech": "Navigation"	
 }
+	{
+        "name": "Cloves",
+        "uniqueTo": "Gailand",
+        "isNationalWonder": true, 
+        "cost": 1,
+        "uniques": ["Only available <in cities without a [Palace]>","Only available <in cities without a [Nutmeg]>","Only available <in cities without a [Pepper]>","Limited to [1] per Civilization","Will not be displayed in Civilopedia","Provides [2] [Cloves]","Must be next to [Coast]"],
+    },
+    {
+        "name": "Nutmeg",
+        "uniqueTo": "Gailand",
+        "isNationalWonder": true,
+        "cost": 1,
+        "uniques": ["Only available <in cities without a [Palace]>","Only available <in cities without a [Cloves]>","Only available <in cities without a [Pepper]>","Limited to [1] per Civilization","Will not be displayed in Civilopedia","Provides [2] [Nutmeg]","Must be next to [Coast]"],
+    },
+    {
+        "name": "Pepper",
+        "uniqueTo": "Gailand",
+        "isNationalWonder": true,
+        "cost": 1,
+        "uniques": ["Only available <in cities without a [Palace]>","Only available <in cities without a [Nutmeg]>","Only available <in cities without a [Cloves]>","Limited to [1] per Civilization","Will not be displayed in Civilopedia","Provides [2] [Pepper]","Must be next to [Coast]"],
+    },
 ]

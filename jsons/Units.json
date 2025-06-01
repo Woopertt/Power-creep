@@ -93,16 +93,12 @@
 			"Is part of Great Person group [Great Person]",
 
          		"Can instantly construct a [Landmark] improvement",
-            		"Great Person - [Culture]",
 			
             		"Can instantly construct a [Academy] improvement",
-            		"Great Person - [Science]",
 
 			"Can instantly construct a [Customs house] improvement",
-			"Great Person - [Gold]",
 
 			"Can instantly construct a [Manufactory] improvement",
-            		"Great Person - [Production]",
 			
 			"Can instantly construct a [Holy site] improvement <if it hasn't used other actions yet>",
 			"Can Spread Religion <for [2] movement>",
@@ -116,7 +112,6 @@
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
             		"Can instantly construct a [Citadel] improvement",
 			"Can be earned through combat",
-			"Great Person - [War]",
 		]
 	}
 ]

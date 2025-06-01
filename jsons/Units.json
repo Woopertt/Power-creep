@@ -86,17 +86,37 @@
 		"name": "Joe Gai",
 		"unitType": "Civilian",
 		"uniqueTo": "Gailand",
-		"replaces": "Great Prophet",
+		"replaces": ["Great Artist","Great Scientist","Great Merchant","Great Engineer","Great Prophet","Great General"],
 		"movement": 2,
 		"uniques": [
+			"Unbuildable", "Uncapturable",
+			"Is part of Great Person group [Great Person]",
+
+         		"Can instantly construct a [Landmark] improvement",
+            		"Great Person - [Culture]",
+			
+            		"Can instantly construct a [Academy] improvement",
+            		"Great Person - [Science]",
+
+			"Can instantly construct a [Customs house] improvement",
+			"Great Person - [Gold]",
+
+			"Can instantly construct a [Manufactory] improvement",
+            		"Great Person - [Production]",
+			
 			"Can instantly construct a [Holy site] improvement <if it hasn't used other actions yet>",
-			"Can Spread Religion <for [2] movement> <[4] times>",
+			"Can Spread Religion <for [2] movement>",
 			"Removes other religions when spreading religion",
             		"May found a religion <if it hasn't used other actions yet>",
             		"May enhance a religion <if it hasn't used other actions yet>",
-            		"Is part of Great Person group [Prophet]",
 			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
 			"Unbuildable", "Religious Unit",
-			"Takes your religion over the one in their birth city"],
+			"Takes your religion over the one in their birth city",
+
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+            		"Can instantly construct a [Citadel] improvement",
+			"Can be earned through combat",
+			"Great Person - [War]",
+		]
 	}
 ]

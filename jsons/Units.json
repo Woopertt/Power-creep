@@ -86,7 +86,7 @@
 		"name": "Joe Gai",
 		"unitType": "Civilian",
 		"uniqueTo": "Gailand",
-		"replaces": ["Great Artist","Great Scientist","Great Merchant","Great Engineer","Great Prophet","Great General"],
+		"replaces": "Great Prophet",
 		"movement": 2,
 		"uniques": [
 			"Unbuildable", "Uncapturable",

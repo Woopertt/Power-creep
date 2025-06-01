@@ -87,6 +87,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Gailand",
 		"replaces": "Great Prophet",
+		"movement": 2,
 		"uniques": [
 			"Can instantly construct a [Holy site] improvement <if it hasn't used other actions yet>",
 			"Can Spread Religion <for [2] movement> <[4] times>",

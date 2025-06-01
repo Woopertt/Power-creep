@@ -8,8 +8,8 @@
 		"strength": 26,
 		"cost": 35,
 		"requiredTech": "Guilds",
-		// "upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		// "obsoleteTech": "Gunpowder",
 		"uniques": [ "Earn [50]% of the damage done to [City] units as [Culture]","Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately","[19] additional attacks per turn"],
 		"attackSound": "Metalhit"
 	}
@@ -82,4 +82,20 @@
 		"uniques": ["Great Person - [Gold]","Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
 			"Can instantly construct a [Customs house] improvement <by consuming this unit>","Double movement in [Coast]","Unbuildable","Uncapturable"]
 	},
+	{
+		"name": "Joe Gai",
+		"unitType": "Civilian",
+		"uniqueTo": "Gailand",
+		"replaces": "Great Prophet",
+		"uniques": [
+			"Can instantly construct a [Holy site] improvement <if it hasn't used other actions yet>",
+			"Can Spread Religion <for [2] movement> <[4] times>",
+			"Removes other religions when spreading religion",
+            		"May found a religion <if it hasn't used other actions yet>",
+            		"May enhance a religion <if it hasn't used other actions yet>",
+            		"Is part of Great Person group [Prophet]",
+			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+			"Unbuildable", "Religious Unit",
+			"Takes your religion over the one in their birth city"],
+	}
 ]

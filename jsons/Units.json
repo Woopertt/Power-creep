@@ -25,7 +25,6 @@
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["Earn [50]% of the damage done to [City] units as [Culture]"],
 		"attackSound": "throw"
 	}
 	{

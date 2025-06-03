@@ -51,7 +51,7 @@
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
 	}
-{
+	{
 		"name": "현대",
 		"replaces": "Workshop",
 		"uniqueTo": "Great Hwan Empire",
@@ -63,8 +63,8 @@
 		"percentStatBonus": {"production": 90},
 	        "uniques": ["[+10 Production] from [Farm] tiles [in this city]"],
 		"requiredTech": "Pottery"
-}
-{
+	}
+	{
 		"name": "상",
 		"replaces": "Colosseum",
 		"uniqueTo": "Korea",
@@ -74,8 +74,8 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+50]% Production when constructing [Worker] units [in this city]","[+30]% Production when constructing [All] wonders [in this cities]"],
 		"requiredTech": "Construction"
-}
-{
+	}
+	{
 		"name": "재벌",
                 "replaces": "Seaport",
                 "uniqueTo": "Korea",
@@ -87,7 +87,19 @@
 "[+1 Production, +1 Gold] from [Water resource] tiles [in this city]","[+1 Production] from every specialist [in this city]",
 "Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]","[+5 Gold, +5 Production] from each Trade Route"],
 		"requiredTech": "Navigation"	
-}
+	}
+	{
+		"name": "첨성대",
+		"faith": 2,
+		"percentStatBonus": {"science": 50},
+		"culture": 1,
+		"food": 1,
+		"isWonder": true,
+		"requiredTech": "Masonry",
+		"quote": "'Cheomseongdae (Korean: 첨성대; Hanja: 瞻星臺; lit. star-gazing tower) is an astronomical observatory in Gyeongju, South Korea. Cheomseongdae is the oldest surviving astronomical observatory in Asia,[1][2][3] and possibly even the world.[4][5][6] It was constructed during the Silla period, during the reign of Queen Seondeok (r. 632–647 AD).[7] Cheomseongdae was designated as the country's 31st national treasure on December 20, 1962.[8] It is part of Gyeongju Historic Areas, a UNESCO World Heritage Site.[9]' - Wikipedia"
+		"uniqueTo": "Korea",
+		"uniques": ["Starts with [Astronomy]","Must be next to [Mountain]"],
+	}
 	{
         "name": "Cloves",
         "uniqueTo": "Gailand",

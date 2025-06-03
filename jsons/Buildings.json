@@ -1,4 +1,4 @@
-[
+	[
 	{
 		"name": "구들",
 		"food": 1,
@@ -97,7 +97,7 @@
 		"requiredTech": "Masonry",
 		"quote": "'Cheomseongdae (Korean: 첨성대; Hanja: 瞻星臺; lit. star-gazing tower) is an astronomical observatory in Gyeongju, South Korea. Cheomseongdae is the oldest surviving astronomical observatory in Asia,[1][2][3] and possibly even the world.[4][5][6] It was constructed during the Silla period, during the reign of Queen Seondeok (r. 632–647 AD).[7] Cheomseongdae was designated as the country's 31st national treasure on December 20, 1962.[8] It is part of Gyeongju Historic Areas, a UNESCO World Heritage Site.[9]' - Wikipedia"
 		"uniqueTo": "Korea",
-		"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles","Must be next to [Mountain]"],
+		"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
 	}
 	{
         "name": "Cloves",

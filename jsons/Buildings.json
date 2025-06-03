@@ -11,7 +11,6 @@
 		"replaces": "Library",
 		"uniqueTo": "Korea",
 		"greatPersonPoints": {"Great Scientist": 1},
-		"happiness": 2,
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [1] population [in this city]"],
 		"maintenance": 1,
 		"requiredTech": "Writing"
@@ -90,7 +89,6 @@
 	}
 	{
 		"name": "첨성대",
-		"faith": 2,
 		"percentStatBonus": {"science": 50},
 		"culture": 1,
 		"isWonder": true,

@@ -1,0 +1,30 @@
+[
+{
+        "name": "Campaign",
+        "modifier": 6.0,
+        "productionCostModifier": 6.0,
+        "goldCostModifier": 6.0,
+        "scienceCostModifier": 6.0,
+        "cultureCostModifier": 6.0,
+        "faithCostModifier": 6.0,
+        "improvementBuildLengthModifier": 6.0,
+        "barbarianModifier": 8.0,
+        "goldGiftModifier": 0.50,
+        "cityStateTributeScalingInterval": 50.0,
+        "goldenAgeLengthModifier": 3.0,
+        "religiousPressureAdjacentCity": 1,
+        "peaceDealDuration": 60,
+        "dealDuration": 180,
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn":  7.5,     "untilTurn":  200},
+            {"yearsPerTurn":    5,     "untilTurn":  800},
+            {"yearsPerTurn":  2.5,     "untilTurn": 1140},
+            {"yearsPerTurn":    1,     "untilTurn": 1542},
+            {"yearsPerTurn":  0.5,     "untilTurn": 1800},
+            {"yearsPerTurn": 0.25,     "untilTurn": 2160},
+            {"yearsPerTurn": 0.125,    "untilTurn": 2688},
+            {"yearsPerTurn": 0.041666, "untilTurn": 3000}
+        ]
+    }
+]

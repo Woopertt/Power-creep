@@ -121,7 +121,8 @@ e	[
 	{
 		"name": "Stele",
         	"replaces": "Monument",
-		"uniqueTo": ["Ethiopia","Gailand"],
+		"uniqueTo": "Ethiopia",
+		"uniqueTo": "Gailand",
 		"culture": 2,
 		"faith": 2,
 		"cost": 40,

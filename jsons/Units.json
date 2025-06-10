@@ -5,7 +5,7 @@
 		"replaces": "Swordsman",
 		"uniqueTo": "Korea",
 		"movement": 3,
-		"strength": 20,
+		"strength": 23,
 		"cost": 50,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Musketman",

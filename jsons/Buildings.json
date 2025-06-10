@@ -4,7 +4,7 @@
 		"food": 1,
 		"cost": 20,
 		"uniqueTo": "Korea",
-		"uniques": ["[+1 Happiness] per [5] population [in this city]"],
+		"uniques": ["[+1 Happiness] per [4] population [in this city]","[+1 Food] from [Tundra] tiles [in this city]"],
 	}
 	{
 		"name": "서원",

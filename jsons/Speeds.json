@@ -2,7 +2,7 @@
 {
         "name": "Campaign",
         "modifier": 6.0,
-        "productionCostModifier": 6.0,
+        "productionCostModifier": 3.0,
         "goldCostModifier": 6.0,
         "scienceCostModifier": 6.0,
         "cultureCostModifier": 6.0,

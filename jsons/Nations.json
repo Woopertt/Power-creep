@@ -36,7 +36,7 @@
 			"[+1 Food] from every [Farm] <with [1] to [6] neighboring [Academy] tiles>","[+1 Science] from every [Mine] <with [1] to [6] neighboring [Academy] tiles>",
 			"[+50]% Production when constructing [Nuclear Missile] units [in all cities]","Double quantity of [Uranium] produced","[+50]% Yield from every [Great Improvement]",
 		"Earn [200]% of the damage done to [City] units as [Culture]","Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately","Free [Great Prophet] appears <upon discovering [Calendar] technology>","[-10]% unhappiness from the number of cities",],
-                "cityStrengthFromTechsExponent": 3,
+                "cityStrengthFromTechsExponent": 10,
 		"cities": [
 "서울",
 "부산",

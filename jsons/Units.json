@@ -56,7 +56,7 @@
 		"upgradesTo": "Rocket Artillery",
 		"promotions": ["Indirect Fire"],
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
-			,"[-1] Sight","Never appears as a Barbarian unit"],
+			"[-1] Sight","Never appears as a Barbarian unit"],
 		"attackSound": "artillery"
 	}
 	{

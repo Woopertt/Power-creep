@@ -35,7 +35,7 @@
 		"uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital",
 			"[+1 Food] from every [Farm] <with [1] to [6] neighboring [Academy] tiles>","[+1 Science] from every [Mine] <with [1] to [6] neighboring [Academy] tiles>",
 			"[+50]% Production when constructing [Nuclear Missile] units [in all cities]","Double quantity of [Uranium] produced","[+50]% Yield from every [Great Improvement]",
-			"[+1 Culture] from every [Luxury resource]","[+1 Culture] from every [Strategic resource]","[+1 Culture] from every [Bonus resource]","[+100]% [Culture] from Trade Routes","[+100]% [Science] from Trade Routes","[+100]% [Food] from Trade Routes","[+100]% [Production] from Trade Routes","Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately","Free [Great Prophet] appears <upon discovering [Calendar] technology>","[-10]% unhappiness from the number of cities",],
+			"[+1 Culture] from every [Luxury resource]","[+1 Culture] from every [Strategic resource]","[+1 Culture] from every [Bonus resource]","[+1 Happiness] from every [Luxury resource]","[+1 Happiness] from every [Strategic resource]","[+1 Happiness] from every [Bonus resource]","[+100]% [Culture] from Trade Routes","[+100]% [Science] from Trade Routes","[+100]% [Food] from Trade Routes","[+100]% [Production] from Trade Routes","Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately","Free [Great Prophet] appears <upon discovering [Calendar] technology>"],
                 "cityStrengthFromTechsExponent": 10,
 		"cities": [
 "서울",

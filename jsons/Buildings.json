@@ -9,7 +9,7 @@
 	{
 		"name": "서원",
 		"replaces": "Library",
-		"uniqueTo": "Korea",
+		"uniqueTo": "Great Hwan Empire",
 		"greatPersonPoints": {"Great Scientist": 1},
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [1] population [in this city]"],
 		"maintenance": 1,
@@ -18,7 +18,7 @@
 	{
 		"name": "교방",
 		"replaces": "Amphitheater",
-		"uniqueTo": "Korea",
+		"uniqueTo": "Great Hwan Empire",
 		"greatPersonPoints": {"Great Artist": 1},
 		"happiness": 1,
 		"culture": 3,
@@ -66,7 +66,7 @@
 	{
 		"name": "상",
 		"replaces": "Colosseum",
-		"uniqueTo": "Korea",
+		"uniqueTo": "Great Hwan Empire",
 		"greatPersonPoints": {"Great Engineer": 1},
 		"maintenance": 1,
 		"happiness": 2,
@@ -77,7 +77,7 @@
 	{
 		"name": "재벌",
                 "replaces": "Seaport",
-                "uniqueTo": "Korea",
+                "uniqueTo": "Great Hwan Empire",
 		"greatPersonPoints": {"Great Merchant": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 3,

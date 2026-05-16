@@ -30,11 +30,11 @@
 	{
 		"name": "선경",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Korea",
+	    "uniqueTo": "Korea",
 		"cost": 40,
 		"hurryCostModifier": 110,
-		"happiness": 3,
-		"uniques": ["90% of food is carried over after a new citizen is born","[+10 Food] from [Farm] tiles [in this city]","[+5 Food] per [1] population [in this city]","[+2 Culture] per [1] population [in this city]"],
+		"happiness": 1,
+		"uniques": ["90% of food is carried over after a new citizen is born","[+2 Food] per [5] population [in this city]","[+1 Culture] per [2] population [in this city]"],
 		"requiredTech": "Engineering"
 		"uniqueTo": "Great Hwan Empire",
 	}
@@ -42,9 +42,9 @@
 		"name": "삼성",
 		"replaces": "Stock Exchange",
 		"uniqueTo": "Korea",
-                "culture": 8,
-		"gold": 9,
-		"percentStatBonus": {"gold": 200},
+                "culture": 2,
+		"gold": 3,
+		"percentStatBonus": {"gold": 100},
 		"specialistSlots": {"Merchant": 5},
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Bank",
@@ -59,8 +59,8 @@
 		"specialistSlots": {"Engineer": 5},
 		"hurryCostModifier": 25,
 	        "uniques": ["Free [Worker] appears"],
-		"percentStatBonus": {"production": 90},
-	        "uniques": ["[+10 Production] from [Farm] tiles [in this city]"],
+		"percentStatBonus": {"production": 30},
+	        "uniques": ["[+1 Production] from [Mine] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	}
 	{

@@ -8,10 +8,12 @@
 	}
 	{
 		"name": "서원",
-		"replaces": "Library",
-		"uniqueTo": "Kgorea",
-		"greatPersonPoints": {"Great Scientist": 1},
-		"uniques": ["[+1 Food] from [Farm] tiles [in this city]","[+1 Science] from [Mine] tiles [in this city]","[+1 Science] per [1] population [in this city]"],
+		"uniqueTo": "Korea",
+		"specialistSlots": {"Artist": 1},
+		"specialistSlots": {"Engineer": 1},
+		"specialistSlots": {"Scientist": 1},
+		"specialistSlots": {"Merchant": 1},
+		"uniques": ["[+10]% [Culture]","[+10]% [Science]","[+10]% [Gold]","[+10]% [Production]","Limited to [8] per Civilization"],
 		"maintenance": 1,
 		"requiredTech": "Writing"
 	}
